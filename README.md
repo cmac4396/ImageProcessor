@@ -1,4 +1,6 @@
-# Image Processor (part 3)
+# Image Processor
+
+*This project is for Object-Oriented Design (CS3500) at Northeastern University.*
 ***
 Anahi Burga and Candice Mac -- 11/23/21
 
